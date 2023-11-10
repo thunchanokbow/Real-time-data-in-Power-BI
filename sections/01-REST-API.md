@@ -1,7 +1,7 @@
 Power BI REST API
 ============
-- [Power BI REST API with PowerShell]()
-- [Using Power BI REST API no-code]()
+- [Power BI REST API with PowerShell](01-REST-API.md#Power-BI-REST-API-with-PowerShell)
+- [Using Power BI REST API no-code](01-REST-API.md#Using-Power-BI-REST-API-no-code)
 
 # Power BI REST API with PowerShell
 ### Check that this step has been completed before START
@@ -9,8 +9,11 @@ Power BI REST API
 
 - Install-Module in Windows PowerShell using **Administrator**
 - Before you run this command, make sure you log in using **Connect-PowerBIServiceAccount**
-- You need to make sure that you have **Your workspace ID** AND **Your dataset ID**
+- To view all info **Get-PowerBIWorkspace -All**
+- You need to make sure that you have **Your workspace ID** AND **Your dataset ID**<br>
+For more information to installing [Here](https://learn.microsoft.com/en-us/rest/api/power-bi/admin/datasets-get-datasets-as-admin)
 ![6](/images/6-REST.png)
+
 ### To refresh a dataset in Power BI workspace, follow these steps:
 ![4](/images/4-REST.png)
 1. Open **PowerShell**.
