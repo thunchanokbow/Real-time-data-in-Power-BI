@@ -20,3 +20,15 @@ To create a workspace on Power BI Service, follow these steps:
 ![0](/images/1-Work.png)
 
 # Give users access to a workspace
+Now, imagine you have a finished report. You need **to share those contents with your co-workers who doesn't have if they don't have a Power BI Pro and Premium account** to keep the report up to date. What's the best way to do it? Here is my advice<br>
+
+To give users access to a workspace, follow these steps:
+1. Open Power BI Service page select **Workspaces**.
+2. Click **'...'** on the report.
+3. Select the last one **Manage permissions**.
+4. Select **Direct access**.
+5. Enter the **e-mail address**.
+6. Click **Grant access**.
+![0](/images/2-Work.png)
+
+
