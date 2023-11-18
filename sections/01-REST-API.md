@@ -24,7 +24,7 @@ For more information to installing [Here](https://learn.microsoft.com/en-us/rest
 * **-Body** specifies the body of JSON object.
 3. **Login to** Power BI Service.
 * Run this command **Login-PowerBIserviceAccount** in PowerShell 
-![7](/images/7-REST.png)
+![7](/images/0-REST.png)
 For more information to refresh a dataset Power BI REST API with PowerShell [Here](https://learn.microsoft.com/en-us/powershell/module/microsoftpowerbimgmt.profile/invoke-powerbirestmethod?view=powerbi-ps)
 
 # Using Power BI REST API no-code
