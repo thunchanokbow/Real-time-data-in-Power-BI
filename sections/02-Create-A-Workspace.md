@@ -1,8 +1,11 @@
-Create A Workspace on Power BI Service
+How to create AND give users access to a Workspace on Power BI Service
 ============
+- [Create a workspace](02-Create-A-Workspace.md#Create-a-workspace)
+- [Give users access to a workspace](02-Create-A-Workspace.md#Give-users-access-to-a-workspace)
 
 Power BI Service is a software as a service **(SaaS)** platform. You need a Power BI Pro or Premium Per User (PPU) license **to create content** in it. To share a dashboard from Power BI Desktop with others, you must create **workspaces** so they can view your **dashboard and reports on the web.**<br>
 
+# Create a workspace
 ### Check that this step has been completed before STAR
 - Sign in Power BI Pro or Premium.
 - Dashboard in Power BI Desktop. 
@@ -13,9 +16,7 @@ To create a workspace on Power BI Service, follow these steps:
 2. Select **Workspace** > create workspace.
 3. Give the workspace a unique name. If the name isn't available, edit it to come up with a name that's unique.
 4. Select **Save**
+5. Open your **Power BI Desktop** > **Publish** the dashborad to the workspaces.
 ![0](/images/1-Work.png)
 
-   
-- [](05-Allow-remote-connections-to-SQL-Server.md#Enabling-SQL-Server-to-accept-remote-connection)
-- []
-- []
+# Give users access to a workspace
