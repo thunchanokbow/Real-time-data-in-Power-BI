@@ -1,6 +1,8 @@
 Real-time-data-in-Power-BI
 ============
-real data Power BI is a powerful tool that can help businesses make better decisions faster. By enabling real-time analytics, Power BI can help businesses to improve their performance and efficiency.
-![0](/images/0-REST.png)
+As organizations struggle to manage the ever-growing amount of data needed to track business profitability, they are limited to on-premise databases, which are not sufficient for executives who need real-time dashboard reports. let's find out how we can manage these resources more effectively.
+
+
+![0](/images/0-Work.png)
 ## Contents
 [Power BI REST API](sections/01-REST-API.md).<br>
