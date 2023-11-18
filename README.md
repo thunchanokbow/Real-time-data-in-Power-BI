@@ -5,5 +5,5 @@ As organizations struggle to manage the ever-growing amount of data needed to tr
 
 ![0](/images/0-Work.png)
 ## Contents
-[Create A Workspace on Power BI Service](sections/02-Create-A-Workspace.md).<br>
+[Create A Workspace on Power BI Service](sections/02-Create-A-Workspace.md#create-a-workspace).<br>
 [Power BI REST API](sections/01-REST-API.md).<br>
