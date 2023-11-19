@@ -7,4 +7,5 @@ As organizations struggle to manage the ever-growing amount of data needed to tr
 ## Contents
 [Create A Workspace on Power BI Service](sections/02-Create-A-Workspace.md#create-a-workspace).<br>
 [Give Users Access to a workspace](sections/02-Create-A-Workspace.md#Give-users-access-to-a-workspace).<br>
+[Installation an on-premises data gateway](sections/03-Installation-gateway.md#Installation-an-on-premises-data-gateway).<br>
 [Power BI REST API](sections/01-REST-API.md).<br>
