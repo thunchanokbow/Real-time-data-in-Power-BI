@@ -1,4 +1,4 @@
-How to connecting SQL Server database into Power BI.
+Connecting SQL Server Database into Power BI Desktop.
 ============
 ### Check that this step has been completed before STAR
 - Sign in Power BI Pro or Premium.
