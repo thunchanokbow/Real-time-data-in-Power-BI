@@ -14,7 +14,7 @@ How to connecting SQL Server database into Power BI.
 4. Select **Import** as the **Data connectivity mode**.
 5. Click **Advanced option**.
  ![0](/images/11-db-power-bi.png)
-6. Put your **SQL Script** here.
+6. Put your **SQL Script** here. Next enter **Data Credential**. 
 7. Click **OK**.
 
  ![0](/images/15-db-power-bi.png)
