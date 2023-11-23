@@ -28,4 +28,28 @@ For more information to installation an on-premises data gateway. [Here](https:/
 ![0](/images/9-Gateway.png)
 ![0](/images/10-Gateway.png)
 
-# Setting the schedule refresh dataset 
+# Setting the schedule refresh dataset
+**The Scheduled refresh** section is where you define the frequency and time slots to refresh the semantic model. Some data sources don't require a gateway to be configurable for refresh, while other data sources require a gateway.<br>
+### Check that this step has been completed before STAR
+- Dashboard on Power BI Workspaces. 
+- Power BI Gateway - Personal.
+- Data Credential.<br>
+![0](/images/18-db-power-bi.png)
+
+To give users access to a workspace, follow these steps:
+1. Open Power BI Service page select **Icon (schedule refresh)**.
+2. **Turn On** Gateway Connections, **Apply**.
+3. In Data source credentials enter **Server, Database, Authentication**.<br>
+You're only required to sign in to a data source the first time you use refresh on that semantic model. Once entered, those credentials are retained with the semantic model.<br>
+4. Set the **Keep your data up to date** slider to **On** to configure the settings.
+5. **Refresh frequency** two options **Daily** and **Weekly**.
+6. Select **Time zone** that match your current location.
+7.  **Add another time** to setting the schedule refresh.
+8.  Click **Apply**.
+
+![0](/images/16-db-power-bi.png)
+![0](/images/17-db-power-bi.png)
+
+
+
+   
