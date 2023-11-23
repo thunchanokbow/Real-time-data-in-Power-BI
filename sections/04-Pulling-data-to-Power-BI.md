@@ -26,3 +26,4 @@ Connecting SQL Server Database into Power BI Desktop.
 ![0](/images/13-db-power-bi.png)
 ![0](/images/14-db-power-bi.png)
 
+For more information to import Power BI the data from the original data sources. [Here](https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-data)
