@@ -1,8 +1,7 @@
 Power BI REST API
 ============
 - [Power BI REST API with PowerShell](01-REST-API.md#Power-BI-REST-API-with-PowerShell)
-- [Using Power BI REST API no-code](01-REST-API.md#Using-Power-BI-REST-API-no-code)
-
+  
 # Power BI REST API with PowerShell
 ### Check that this step has been completed before START
 ![5](/images/5-REST.png)
@@ -27,4 +26,3 @@ For more information to installing [Here](https://learn.microsoft.com/en-us/rest
 ![7](/images/0-REST.png)
 For more information to refresh a dataset Power BI REST API with PowerShell [Here](https://learn.microsoft.com/en-us/powershell/module/microsoftpowerbimgmt.profile/invoke-powerbirestmethod?view=powerbi-ps)
 
-# Using Power BI REST API no-code
