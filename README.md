@@ -9,4 +9,5 @@ As organizations struggle to manage the ever-growing amount of data needed to tr
 [Pulling-data-to-Power-BI-Desktop](sections/04-Pulling-data-to-Power-BI.md) by connecting the SQL Server Database into Power BI.<br>
 [Give Users Access to a workspace](sections/02-Create-A-Workspace.md#Give-users-access-to-a-workspace).<br>
 [Installation an on-premises data gateway](sections/03-Installation-gateway.md#Installation-an-on-premises-data-gateway).<br>
+[Setting the schedule refresh dataset](sections/03-Installation-gateway.md#Setting-the-schedule-refresh-dataset).<br>
 [Power BI REST API](sections/01-REST-API.md).<br>
