@@ -1,8 +1,5 @@
-Power BI REST API
+Power BI REST API with PowerShell
 ============
-- [Power BI REST API with PowerShell](01-REST-API.md#Power-BI-REST-API-with-PowerShell)
-  
-# Power BI REST API with PowerShell
 ### Check that this step has been completed before START
 ![5](/images/5-REST.png)
 
