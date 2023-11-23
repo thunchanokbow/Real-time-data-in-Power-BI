@@ -36,7 +36,7 @@ For more information to installation an on-premises data gateway. [Here](https:/
 - Data Credential.<br>
 ![0](/images/18-db-power-bi.png)
 
-To give users access to a workspace, follow these steps:
+To setting the schedule refresh dataset, follow these steps:
 1. Open Power BI Service page select **Icon (schedule refresh)**.
 2. **Turn On** Gateway Connections, **Apply**.
 3. In Data source credentials enter **Server, Database, Authentication**.<br>
@@ -49,6 +49,8 @@ You're only required to sign in to a data source the first time you use refresh 
 
 ![0](/images/16-db-power-bi.png)
 ![0](/images/17-db-power-bi.png)
+
+For more information to setting the schedule refresh dataset. [Here](https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-scheduled-refresh)   
 
 
 
