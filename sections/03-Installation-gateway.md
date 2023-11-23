@@ -1,7 +1,7 @@
 Power BI Gateway
 ============
-- [Installation an on-premises data gateway](02-Create-A-Workspace.md#Installation-an-on-premises-data-gateway)
-- [Setting the schedule refresh dataset](02-Create-A-Workspace.md#Setting-the-schedule-refresh-dataset)
+- [Installation an on-premises data gateway](03-Installation-gateway.md#Installation-an-on-premises-data-gateway)
+- [Setting the schedule refresh dataset](03-Installation-gateway.md#Setting-the-schedule-refresh-dataset)
  
 The on-premises data gateway acts as a bridge to provide quick and secure data transfer between **on-premises data** (data that isn't in the cloud) and **several Microsoft cloud services**. These cloud services include **Power BI**, PowerApps, Power Automate, Azure Analysis Services, and Azure Logic Apps. By using a gateway, **organizations can keep databases and other data sources on their on-premises networks**, yet securely use that on-premises data in cloud services.<br>
 
